@@ -7,14 +7,6 @@ A classic Ludo board game implemented in C++ using the **Raylib** library for gr
 
 ---
 
-## 📸 Gameplay Screenshot
-
-*(A screenshot of the game in action would be great here!)*
-
-![Gameplay Screenshot](https://placehold.co/600x400?text=Ludo+Gameplay+Screenshot)
-
----
-
 ## ✨ Features
 
 -   **Graphical Interface**: Built with the simple and easy-to-use Raylib library.
